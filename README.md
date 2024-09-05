@@ -1,4 +1,4 @@
-# Automated-Resolution-of-Cluster-Alerting
+# Automated Resolution of Cluster Alerting
 ## Overview
 The Automated Resolution of Cluster Alerting project is a solution designed to monitor and handle Kubernetes cluster alerts by automatically detecting, analyzing, and providing resolutions for errors. This is achieved through the integration of Kibana, Prometheus, and ChatGPT for real-time log filtering and automated error resolution, with notifications and collaboration through Slack.
 
